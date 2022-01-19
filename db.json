@@ -1,10 +1,10 @@
-{
-   {
+[
+  {
     "description": "Finest fish and veggies",
     "name": "Sushi",
     "price": 22.99
   },
-   {
+  {
     "description": "American, raw, meaty",
     "name": "Barbecue Burger",
     "price": 12.99
@@ -19,4 +19,4 @@
     "name": "Green Bowl",
     "price": 18.99
   }
-}
+]
